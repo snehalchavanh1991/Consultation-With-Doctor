@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+env/
+venv/
+*.log
+
+# Node
+node_modules/
+build/
+dist/
+
+# Environment files
+.env
